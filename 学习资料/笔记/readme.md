@@ -44,19 +44,19 @@ cdn 内容分发网络
 
 ## **二、如何快速深入学习一个新技术？**
 
-   ![b](.\img\01img\1.PNG)
+   ![b](./img/01img/1.png)
 
 ## **三、诞生小故事**
 
-​    ![b](.\img\01img\2.PNG)
+   ![b](./img/01img/2.png)
 
-​    ![0](.\img\01img\3.png)
+   ![0](./img/01img/3.png)
 
-​    ![0](.\img\01img\4.PNG)
+   ![0](./img/01img/4.PNG)
 
 ## **四、golang特点**
 
-   ![b](.\img\01img\5.PNG)
+   ![b](./img/01img/5.PNG)
 
-​       ![b](.\img\01img\6.PNG)
+   ![b](./img/01img/6.PNG)
 
