@@ -52,11 +52,11 @@ cdn 内容分发网络
 
    ![0](./img/01img/3.png)
 
-   ![0](./img/01img/4.PNG)
+   ![0](./img/01img/4.png)
 
 ## **四、golang特点**
 
-   ![b](./img/01img/5.PNG)
+   ![b](./img/01img/5.png)
 
-   ![b](./img/01img/6.PNG)
+   ![b](./img/01img/6.png)
 
